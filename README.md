@@ -16,6 +16,7 @@
 - Educational cybersecurity projects
 - Python tools for system analysis
 - Open-source software for ethical hacking education
+- Pymeow project COD BOCW
 
 ## 📫 How to reach me ...
 - GitHub: [@TCO-load](https://github.com/TCO-load)
